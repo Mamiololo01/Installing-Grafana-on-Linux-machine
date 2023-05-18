@@ -84,6 +84,10 @@ sudo rpm -i --nodeps grafana-6.7.3-1.x86_64.rpm
 
 Configuration file(s) is stored /etc/grafana/grafana.ini If required, You can change the default port from 3000 to other port in this configuration file.
 
+<img width="729" alt="Screenshot 2023-05-18 at 09 40 10" src="https://github.com/Mamiololo01/Installing-Grafana-on-Linux-/assets/67044030/9e812928-39c3-46cc-8e7e-c7dd93d2879f">
+
+<img width="723" alt="Screenshot 2023-05-18 at 09 40 48" src="https://github.com/Mamiololo01/Installing-Grafana-on-Linux-/assets/67044030/c72c5627-90e7-4b9c-b17f-5f475807d87d">
+
 After a successful installation and configuration, you should be able to see grafana web url by going to below default link:
 http://localhost:3000/grafana
 
