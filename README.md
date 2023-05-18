@@ -57,6 +57,9 @@ wget https://dl.grafana.com/oss/release/grafana_6.7.3_amd64.deb
 
 sudo dpkg -i grafana_6.7.3_amd64.deb
 
+<img width="721" alt="Screenshot 2023-05-18 at 09 37 58" src="https://github.com/Mamiololo01/Installing-Grafana-on-Linux-/assets/67044030/67c1f482-e8af-4e60-b1c9-266ea9aba73a">
+
+
 
 Standalone Linux Binaries(64 Bit):
 
