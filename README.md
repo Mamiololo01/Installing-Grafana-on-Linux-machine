@@ -59,7 +59,9 @@ sudo dpkg -i grafana_6.7.3_amd64.deb
 
 <img width="721" alt="Screenshot 2023-05-18 at 09 37 58" src="https://github.com/Mamiololo01/Installing-Grafana-on-Linux-/assets/67044030/67c1f482-e8af-4e60-b1c9-266ea9aba73a">
 
+<img width="730" alt="Screenshot 2023-05-18 at 09 38 26" src="https://github.com/Mamiololo01/Installing-Grafana-on-Linux-/assets/67044030/8917b8d2-f7f8-4d80-8a6e-c337be6215de">
 
+<img width="732" alt="Screenshot 2023-05-18 at 09 39 01" src="https://github.com/Mamiololo01/Installing-Grafana-on-Linux-/assets/67044030/5b228aa4-9cc5-43a6-9cfa-550f5491f1c6">
 
 Standalone Linux Binaries(64 Bit):
 
