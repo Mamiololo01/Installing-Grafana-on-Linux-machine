@@ -95,10 +95,15 @@ If you’re running grafana on a different server and want to access it remote t
 http://<<ip address>>:<<port>>
 e.g. 
 http://10.0.0.7:3000
+  
+<img width="730" alt="Screenshot 2023-05-18 at 09 42 09" src="https://github.com/Mamiololo01/Installing-Grafana-on-Linux-/assets/67044030/0ed0d31a-dba4-4d38-bd8c-17542a708f60">
+
 
 Default Username and Password to access Grafana:
 username: admin
 password: admin
+  
+<img width="708" alt="Screenshot 2023-05-18 at 09 43 04" src="https://github.com/Mamiololo01/Installing-Grafana-on-Linux-/assets/67044030/68607377-d418-4e5d-810e-df3f1400ac56">
 
 Managing Grafana Services:
 
