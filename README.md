@@ -1,4 +1,5 @@
 # Installing-Grafana-on-Linux-
+
 Step by step guide to install Grafana on Linux
 
 Grafana installation is simple and quick. Here are good to know things before you start installing Grafana:
@@ -14,7 +15,9 @@ Grafana has a web interface and below are the list of supported browsers:
 Red Hat, CentOS, RHEL, and Fedora(64 Bit):
 
 Supported Operating Systems
+
 Debian / Ubuntu
+
 RPM-based Linux (CentOS, Fedora, OpenSuse, RedHat)
 
 macOS
@@ -93,8 +96,8 @@ http://localhost:3000/grafana
 
 If you’re running grafana on a different server and want to access it remote than use below link:
 http://<<ip address>>:<<port>>
-e.g. 
-http://10.0.0.7:3000
+
+e.g. http://10.0.0.7:3000
   
 <img width="730" alt="Screenshot 2023-05-18 at 09 42 09" src="https://github.com/Mamiololo01/Installing-Grafana-on-Linux-/assets/67044030/0ed0d31a-dba4-4d38-bd8c-17542a708f60">
 
@@ -108,5 +111,7 @@ password: admin
 Managing Grafana Services:
 
 sudo systemctl status grafana-server.service
+
 sudo systemctl start grafana-server.service
+
 sudo systemctl stop grafana-server.service
